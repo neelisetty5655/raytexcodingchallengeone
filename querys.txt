@@ -1,0 +1,3 @@
+create database codingchellenge;
+create table userinfo(id int not noll,username varchar(255) not null,intersttype varchar(255) not null,principle int not null,total
+float not null,interest float not null,PRIMARY KEY (id));
